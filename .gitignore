@@ -1,1 +1,4 @@
-.DS_Store
+#The ignore file for NA project
+#
+#For MAC files
+**.DS_Store
